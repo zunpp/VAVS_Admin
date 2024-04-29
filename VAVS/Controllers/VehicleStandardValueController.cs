@@ -147,7 +147,7 @@ namespace VAVS.Controllers
                 using (HttpClient httpClient = new HttpClient())
                 {
                     // Specify the API endpoint URL
-                    string apiUrl = "http://203.81.89.218:99/VehicleStandardAPI/api/VehicleStandard/UpdateVehicleStandardMasterValue?apiKey=" + "V3H!cl3$t@ND@rd";
+                    string apiUrl = "http://203.81.89.218:99/VehicleStandardAPI/api/VehicleStandard/UpdateVehicleStandardValuebyId?apiKey=" + "V3H!cl3$t@ND@rd";
 
                     // Serialize the model to JSON
                     string json = Newtonsoft.Json.JsonConvert.SerializeObject(modelValue);
