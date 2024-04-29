@@ -1,0 +1,17 @@
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\bin\Release\net6.0\VAVS_Service.deps.json
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\bin\Release\net6.0\VAVS_Service.dll
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\bin\Release\net6.0\VAVS_Service.pdb
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\bin\Release\net6.0\VAVS_Data.dll
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\bin\Release\net6.0\VAVS_Model.dll
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\bin\Release\net6.0\VAVS_Data.pdb
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\bin\Release\net6.0\VAVS_Model.pdb
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\obj\Release\net6.0\VAVS_Service.csproj.AssemblyReference.cache
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\obj\Release\net6.0\VAVS_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\obj\Release\net6.0\VAVS_Service.AssemblyInfoInputs.cache
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\obj\Release\net6.0\VAVS_Service.AssemblyInfo.cs
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\obj\Release\net6.0\VAVS_Service.csproj.CoreCompileInputs.cache
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\obj\Release\net6.0\VAVS_Service.csproj.CopyComplete
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\obj\Release\net6.0\VAVS_Service.dll
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\obj\Release\net6.0\refint\VAVS_Service.dll
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\obj\Release\net6.0\VAVS_Service.pdb
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Service\obj\Release\net6.0\ref\VAVS_Service.dll

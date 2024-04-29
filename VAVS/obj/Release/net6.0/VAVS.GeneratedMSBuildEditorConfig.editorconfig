@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.RootNamespace = VAVS
+build_property.RootNamespace = VAVS
+build_property.ProjectDir = D:\ZPP\VAVS_Admin\VAVS\VAVS\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\ZPP\VAVS_Admin\VAVS\VAVS
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/AccountLogin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudExvZ2luXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/Personal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/Shared/_Pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdpbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/TaxValidation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF4VmFsaWRhdGlvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/TaxValidation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF4VmFsaWRhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/TaxValidation/_PartialForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF4VmFsaWRhdGlvblxfUGFydGlhbEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/VehicleStandardValue/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVN0YW5kYXJkVmFsdWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/VehicleStandardValue/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVN0YW5kYXJkVmFsdWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/VehicleStandardValue/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVN0YW5kYXJkVmFsdWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/VehicleStandardValue/_PartialForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVN0YW5kYXJkVmFsdWVcX1BhcnRpYWxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/Vehicle/SetupStandardValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxTZXR1cFN0YW5kYXJkVmFsdWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/Vehicle/_PartialForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZVxfUGFydGlhbEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ZPP/VAVS_Admin/VAVS/VAVS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8pakw19mim

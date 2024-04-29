@@ -1,0 +1,11 @@
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\bin\Release\net6.0\VAVS_Model.deps.json
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\bin\Release\net6.0\VAVS_Model.dll
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\bin\Release\net6.0\VAVS_Model.pdb
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\obj\Release\net6.0\VAVS_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\obj\Release\net6.0\VAVS_Model.AssemblyInfoInputs.cache
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\obj\Release\net6.0\VAVS_Model.AssemblyInfo.cs
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\obj\Release\net6.0\VAVS_Model.csproj.CoreCompileInputs.cache
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\obj\Release\net6.0\VAVS_Model.dll
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\obj\Release\net6.0\refint\VAVS_Model.dll
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\obj\Release\net6.0\VAVS_Model.pdb
+D:\ZPP\VAVS_Admin\VAVS\VAVS_Model\obj\Release\net6.0\ref\VAVS_Model.dll

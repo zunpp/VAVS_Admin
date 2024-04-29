@@ -1,0 +1,155 @@
+﻿@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+@using VAVS.Enum
+@*@model MADBHR_Models.Employee.VMRequestEmployee*@
+@model VAVS_Model.Model.VM_TaxValidation
+@{
+    var controller = "TaxValidation";
+    ViewData["Title"] = "All " + controller;
+}
+<section class="content">
+
+    <div class="box">
+        <div class="box-header">
+
+            @*  <h4 class="text-blue text-bold">ဌာနများဖြည့်သွင်းရန်</h4> *@
+        </div>
+        <div class="box-body">
+            <div class="row">
+                <form action="@Configuration.GetSection("AppUrls").GetSection("TestUrl").Value/@controller/@ViewData["Action"]" method="post" enctype="multipart/form-data">
+
+
+                    <input asp-for="TaxValidationPkid" hidden />
+                    @*}*@
+                    <div class="col-xs-12">
+                        <div class="row">
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">Name</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="Name" disabled>
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">TIN Number</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="PersonTinnumber" disabled>
+                                    <span asp-validation-for="PersonTinnumber" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">NRC</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="PersonNrc" disabled>
+                                    <span asp-validation-for="PersonNrc" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">Vehicle Number</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="VehicleNumber" disabled>
+                                    <span asp-validation-for="VehicleNumber" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">Vehicle Brand</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="VehicleBrand" disabled>
+                                    <span asp-validation-for="VehicleBrand" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">Model Year</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="ModelYear" disabled>
+                                    <span asp-validation-for="ModelYear" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">Standard Value</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="StandardValue" disabled>
+                                    <span asp-validation-for="StandardValue" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">Contract Value</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="ContractValue" disabled>
+                                    <span asp-validation-for="ContractValue" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">Tax Amount</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="TaxAmount" disabled>
+                                    <span asp-validation-for="TaxAmount" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">Form Number</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="FormNumber">
+                                    <span asp-validation-for="FormNumber" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">QR Code</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="QrcodeNumber">
+                                    <span asp-validation-for="QrcodeNumber" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 form-group">
+                                <label class="form-label" for="field-1">Demand Number</label>
+                                <span class="desc"></span>
+                                <div class="controls">
+                                    <input type="text" class="form-control" id="field-1" asp-for="DemandNumber">
+                                    <span asp-validation-for="DemandNumber" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12  padding-bottom-30">
+                                <div class="text-left">
+                                    <button type="submit" class="btn btn-primary gradient-blue">Save</button>
+                                    <a asp-controller="@controller" asp-action="Index" asp-route-Status="Pending" class="btn btn-primary">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
